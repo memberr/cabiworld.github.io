@@ -8,7 +8,7 @@
   <a href="https://getbootstrap.com/docs/"><strong>Explore Bootstrap docs »</strong></a>
 </p>
 
-## Directory
+## Reference Directory
 
 - [Starter](starter/) – CDN links for our CSS and JS
 - [Sass & JS](sass-js/) — Import Sass, Autoprefixer, Stylelint, and our JS bundle via npm
