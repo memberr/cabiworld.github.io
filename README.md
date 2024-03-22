@@ -1,18 +1,14 @@
-<p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
-</p>
 
-<h3 align="center">Bootstrap Examples</h3>
+
+<h3 align="center">Rapid Prototyping for FPF</h3>
 
 <p align="center">
-  Functional examples for building with Bootstrap using popular tools and frameworks.
+  Currently prototyping with Bootstrap 5.3 tools and framework.
   <br>
   <a href="https://getbootstrap.com/docs/"><strong>Explore Bootstrap docs »</strong></a>
 </p>
 
-## Directory
+## Reference Directory
 
 - [Starter](starter/) – CDN links for our CSS and JS
 - [Sass & JS](sass-js/) — Import Sass, Autoprefixer, Stylelint, and our JS bundle via npm
