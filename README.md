@@ -1,27 +1,94 @@
+# 👋 FAIR Process Framework
+
+{% hint style="info" %}
+&#x20;**Tip:** insert tip on using the FPF process framework here
+{% endhint %}
+
+## Overview
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+<figure><img src=".gitbook/assets/field - grass.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+{% endtabs %}
+
+Here are a couple of example overviews from products with really great docs:
+
+{% tabs %}
+{% tab title="First Tab" %}
 
 
-<h3 align="center">Rapid Prototyping for FPF</h3>
+```
+// Some code
+```
+{% endtab %}
 
-<p align="center">
-  Currently prototyping with Bootstrap 5.3 tools and framework.
-  <br>
-  <a href="https://getbootstrap.com/docs/"><strong>Explore Bootstrap docs »</strong></a>
-</p>
+{% tab title="Second Tab" %}
 
-## Reference Directory
+{% endtab %}
 
-- [Starter](starter/) – CDN links for our CSS and JS
-- [Sass & JS](sass-js/) — Import Sass, Autoprefixer, Stylelint, and our JS bundle via npm
-- [Sass & ESM JS](sass-js-esm/) — Import Sass, Autoprefixer, and Stylelint via npm, and then load our ESM JS with a shim
-- [Color modes](color-modes/) – Color mode support and color mode picker built on our Sass & ESM JS example
-- [Bootstrap Icons font](icons-font/) - Import and compile Sass, Stylelint, PurgeCSS, and our icon font
-- [Parcel](parcel/) - Sass, JS via Parcel
-- [React](react-nextjs/) - Sass with React Bootstrap components using React and Next.js
-- [Vite](vite/) - Sass, JS via Vite
-- [Vue](vue/) - Sass, JS via Vue/Vite
-- [Webpack](webpack/) - Import and bundle Sass and JS with Webpack
-- PurgeCSS - import sass w/ purgecss and js via npm
+{% tab title="Untitled" %}
 
-## License
+{% endtab %}
+{% endtabs %}
 
-Licensed under the [MIT License](LICENSE).
+> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+>
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+>
+> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+
+> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+>
+> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+
+
+
+```
+```
+
+## Quick links
+
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
+{% endcontent-ref %}
+
+## Get Started
+
+We've put together some helpful guides for you to get setup with our product quickly and easily.
+
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
+[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% endcontent-ref %}
